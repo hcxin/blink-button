@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.19)
-project(blink-project)
+project(blink-button)
 set(CMAKE_PREFIX_PATH "D:/software/Qt/5.14.2/mingw73_64")
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_AUTOMOC ON)
